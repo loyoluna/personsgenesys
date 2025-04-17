@@ -11,8 +11,8 @@ using System.Text.Json;
 
 class Program
 {
-    private static readonly string accessToken = "UKnEiJPmNpU-ttKDV39SyWT5_H2Z_agzMpuuWRvxx5HWI7wRWSQsmQUCJ9sgGeJQo9OdTqpXk9ik0Dg2ilDBlA";
-    private static readonly string baseUrl = "https://api.mypurecloud.com/api/v2";
+    private static readonly string accessToken = "token";
+    private static readonly string baseUrl = "https://api";
 
     static async Task Main()
     {
